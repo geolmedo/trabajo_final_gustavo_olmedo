@@ -1,0 +1,9 @@
+Gustavo Ernest Olmedo les dice:
+Bienvenidos al sitio de juegos Azarito.
+
+Aquí podrás elegir entre dos juegos de azar:
+
+- El popular piedra, papel o tijera.
+- La tirada de dos dados resultando ganador el de mayor puntaje.
+
+¡¡¡MUCHA SUERTE!!!
